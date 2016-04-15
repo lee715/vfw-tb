@@ -1,6 +1,6 @@
 {
   "name": "vfw-tb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vfw extends for tb",
   "keywords": [
     "tb",
@@ -13,8 +13,7 @@
   "dependencies": {
     "lodash": "^4.11.1",
     "phone": "^1.0.5",
-    "validator": "^5.2.0",
-    "vfw": "^1.2.0"
+    "validator": "^5.2.0"
   },
   "devDependencies": {
     "mocha": "^2.4.5"
